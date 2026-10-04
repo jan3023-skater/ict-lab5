@@ -1,1 +1,1 @@
-now this is the change. tect being replaced.
+Git also keeps a history of changes so developers can manage and review earlier versions of their work.
